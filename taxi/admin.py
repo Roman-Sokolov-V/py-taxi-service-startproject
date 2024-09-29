@@ -32,6 +32,4 @@ class CarAdmin(admin.ModelAdmin):
     ]
 
 
-# admin.site.register(Driver, DriverAdmin)
-# admin.site.register(Car, CarAdmin)
 admin.site.register(Manufacturer)
